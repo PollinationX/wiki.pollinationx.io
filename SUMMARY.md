@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Welcome to PX](README.md)
 
 ## INTRODUCTION
 
