@@ -10,9 +10,15 @@ To bridge the gap between decentralized storage networks and end users enabling 
 
 ### Context
 
-Digital data has transformed into an invaluable asset. Traditional custodial cloud storage models present significant challenges regarding data ownership and security. The up-and-coming decentralized storage networks could be presented as a solution as their self-custodial decentralized design abstracts the possibilities of data mining and data ownership loss putting the data owner in control. Amidst this landscape, PX emerges as a beacon of innovation, bridging the gap between the theoretical promise of decentralized storage and its practical application, adding infrastructure and service layer dedicated to the ease of access.&#x20;
+{% hint style="danger" %}
+**Problem:** In today's digital age, data is incredibly valuable, often compared to oil. However, the explosion of digital data has made it increasingly difficult to manage, store, and protect. Traditional cloud storage providers capitalize on data mining, but this approach has significant flaws, including loss of data ownership and custody once data is uploaded, as well as overstated security claims. This centralized model is problematic both technically and ideologically, as it places users' personal and sensitive data under the control of large corporations. These issues have driven the shift towards decentralized storage systems, offering a new approach to data management.
+{% endhint %}
 
-### PollinationX (PX)
+{% hint style="info" %}
+**Solution:** The up-and-coming decentralized storage networks could be presented as a solution as their self-custodial decentralized design abstracts the possibilities of data mining and data ownership loss putting the data owner in control. Amidst this landscape, PX emerges as a beacon of innovation, bridging the gap between the theoretical promise of decentralized storage and its practical application, adding infrastructure and service layer dedicated to the ease of access.&#x20;
+{% endhint %}
+
+### What is PollinationX (PX)?
 
 On the one hand, the PX offers a suite of back-end services that enable developers to connect to custom decentralized storage nodes via dedicated service APIs, NPM & SDK while utilising the read-and-write methods of [supported decentralized storage](../overview/supported-networks-and-storages.md) out-of-the-box. On the other hand, it enables end-users to utilize decentralized storage in the form of PollinationX Storage NFTs (i.e. PX sNFT).
 
