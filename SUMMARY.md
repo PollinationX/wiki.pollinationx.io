@@ -12,9 +12,9 @@
 
 * [PX dApp](overview/px-dapp/README.md)
   * [Intro to PX Drive](overview/px-drive/README.md)
-  * [PX Dashboard](overview/px-dapp/px-dashboard.md)
+  * [Intro PX Dashboard](overview/px-dapp/intro-px-dashboard.md)
+  * [PX dApp User Guide](overview/px-dapp/px-dapp-user-guide.md)
 * [PX Storage NFTs](overview/px-storage-nft.md)
-* [PX dApp User Guide](overview/px-drive/px-drive-user-guide.md)
 * [Supported Networks & Storages](overview/supported-networks-and-storages.md)
 
 ## DEVELOPER SECTION

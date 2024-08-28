@@ -4,4 +4,4 @@ PollinationX dApp offers cutting-edge decentralized storage solutions that empow
 
 * **PX Drive:** A decentralized storage service offering a "Cloud Storage" experience, where users can store and access files online in a self-custodial, permissionless way. It syncs documents, photos, and more across all devices supporting Web3 wallets.
 * **PX Dashboard:** A developer-focused dashboard that allows developers to manage their PX subscriptions and access a range of developer settings and tools.
-* **PX Storage NFT:** **PX Storage NFT**: A fully self-custodial dynamic NFT that provides a predetermined amount of decentralized storage and bandwidth, ensuring that only the private key owner can access the user's data.
+* **PX Storage NFT:** A fully self-custodial dynamic NFT that provides a predetermined amount of decentralized storage and bandwidth, ensuring that only the private key owner can access the user's data.
