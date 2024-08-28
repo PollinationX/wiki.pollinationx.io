@@ -4,9 +4,9 @@ description: >-
   onboarding and access to all needed information.
 ---
 
-# PX Drive User Guide
+# PX dApp User Guide
 
-<figure><img src="../../.gitbook/assets/drive-infographics-v3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/drive-infographics-v3.png" alt=""><figcaption></figcaption></figure>
 
 ### How to use PX Drive with supported TestNets and MainNets? <a href="#how-to-send-data-files-using-polygon-or-arbitrum-mainnets" id="how-to-send-data-files-using-polygon-or-arbitrum-mainnets"></a>
 
@@ -15,7 +15,7 @@ description: >-
 `Step 2:` Connect the wallet to the chosen blockchain network;
 
 {% hint style="info" %}
-**Tip:** Check the [list](../supported-networks-and-storages.md) of supported TestNets and MainNets.
+**Tip:** Check the [list](supported-networks-and-storages.md) of supported TestNets and MainNets.
 {% endhint %}
 
 `Step 3:` Provide sufficient wallet balance (i.e. ETH, IMMU...);
@@ -30,7 +30,7 @@ description: >-
 **Tip:** You can export the PX Drive account private key to import it on another device.
 {% endhint %}
 
-`Step 7:` Empty PX Drive dashboard opens. To get started mint your free 100MB [PX Storage NFT](../px-storage-nft/);&#x20;
+`Step 7:` Empty PX Drive dashboard opens. To get started mint your free 100MB [PX Storage NFT](px-storage-nft/);&#x20;
 
 {% hint style="success" %}
 **Explainer:** PX Drive uses PX sNFTs to enable data file storage over decentralized storage networks. Every user is allegeable for the first `100MB` PX sNFT. To increase data storage capacity an additional storage NFT needs to be added to the wallet. Users can mint PX sNFTs according to their needs (e.g. 5GB, 20GB, 100GB). Storage is available until used.

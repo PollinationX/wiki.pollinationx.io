@@ -10,6 +10,9 @@
 
 ## OVERVIEW
 
+* [PX dApp](overview/px-dapp/README.md)
+  * [Intro to PX Drive](overview/px-dapp/intro-to-px-drive.md)
+* [PX dApp User Guide](overview/px-dapp-user-guide.md)
 * [PX Dashboard](overview/px-dashboard/README.md)
   * [PX Dashboard User Guide](overview/px-dashboard/px-dashboard-user-guide.md)
   * [PX Dashboard TestNet](https://testnet.pollinationx.io/)
@@ -17,9 +20,6 @@
 * [PX Storage NFTs](overview/px-storage-nft/README.md)
   * [\[PX\] SC GitHub](https://github.com/PollinationX/smart-contracts)
   * [\[PX\] Smart Contract Audit](overview/px-storage-nft/px-smart-contract-audit.md)
-* [PX Drive](overview/px-drive/README.md)
-  * [PX Drive User Guide](overview/px-drive/px-drive-user-guide.md)
-  * [GitHub](https://github.com/PollinationX/pxDrive)
 * [Supported Networks & Storages](overview/supported-networks-and-storages.md)
 
 ## DEVELOPER SECTION
