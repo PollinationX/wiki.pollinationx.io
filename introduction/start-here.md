@@ -42,8 +42,7 @@ On the one hand, the PX offers a suite of back-end services that enable develope
 {% tab title="PollinationX" %}
 ```
 https://pollinationx.io/
-https://app.pollinationx.io/
-https://testnet.pollinationx.io/
+https://wiki.pollinationx.io/
 https://github.com/pollinationx/
 ```
 {% endtab %}
@@ -51,7 +50,6 @@ https://github.com/pollinationx/
 {% tab title="PX Drive" %}
 ```
 https://drive.pollinationx.io/
-https://testnet.drive.pollinationx.io/
 https://github.com/pollinationx/drive/
 ```
 {% endtab %}
