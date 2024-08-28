@@ -6,7 +6,9 @@ description: >-
 
 # PX dApp User Guide
 
-<figure><img src="../.gitbook/assets/drive-infographics-v3.png" alt=""><figcaption></figcaption></figure>
+## PX Drive section
+
+<figure><img src="../../.gitbook/assets/drive-infographics-v3.png" alt=""><figcaption></figcaption></figure>
 
 ### How to use PX Drive with supported TestNets and MainNets? <a href="#how-to-send-data-files-using-polygon-or-arbitrum-mainnets" id="how-to-send-data-files-using-polygon-or-arbitrum-mainnets"></a>
 
@@ -15,7 +17,7 @@ description: >-
 `Step 2:` Connect the wallet to the chosen blockchain network;
 
 {% hint style="info" %}
-**Tip:** Check the [list](supported-networks-and-storages.md) of supported TestNets and MainNets.
+**Tip:** Check the [list](../supported-networks-and-storages.md) of supported TestNets and MainNets.
 {% endhint %}
 
 `Step 3:` Provide sufficient wallet balance (i.e. ETH, IMMU...);
@@ -30,7 +32,7 @@ description: >-
 **Tip:** You can export the PX Drive account private key to import it on another device.
 {% endhint %}
 
-`Step 7:` Empty PX Drive dashboard opens. To get started mint your free 100MB [PX Storage NFT](px-storage-nft/);&#x20;
+`Step 7:` Empty PX Drive dashboard opens. To get started mint your free 100MB [PX Storage NFT](../px-storage-nft.md);&#x20;
 
 {% hint style="success" %}
 **Explainer:** PX Drive uses PX sNFTs to enable data file storage over decentralized storage networks. Every user is allegeable for the first `100MB` PX sNFT. To increase data storage capacity an additional storage NFT needs to be added to the wallet. Users can mint PX sNFTs according to their needs (e.g. 5GB, 20GB, 100GB). Storage is available until used.
@@ -96,3 +98,38 @@ The settings wheel icon is located in the left bottom corner of the PX Drive dAp
 
 > (1) Reset secret enables you to exit the existing Drive account and import a new one using new Account private key\
 > (2) Logout - logs out of the Drive dApp
+
+## PX Dashboard section
+
+This is the PollinationX Dashboard manual page. Follow the steps for easier onboarding and access to all needed information.
+
+<figure><img src="../../.gitbook/assets/PX-dashboard-infographics.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+**Tip:** PX Dashboard is used to mint PX sNFTs selection (e.g. FREE100MB, 5GB, 10GB, 20GB, 100GB), while PX sNFT owners can check storage state.
+{% endhint %}
+
+### How to use PX Dashboard with supported TestNets and MainNets? <a href="#how-to-send-data-files-using-polygon-or-arbitrum-mainnets" id="how-to-send-data-files-using-polygon-or-arbitrum-mainnets"></a>
+
+`Step 1:` Install or login to **Wallet Connect** supported wallet (e.g. MetaMask);
+
+`Step 2:` Connect the wallet to the chosen blockchain network;
+
+{% hint style="info" %}
+**Tip:** Check the [list](../supported-networks-and-storages.md) of supported TestNets and MainNets.
+{% endhint %}
+
+`Step 3:` Provide sufficient wallet balance (e.g. Immu, Matic, ETH...);
+
+`Step 4:` Login to the [app.pollinationx.io](https://app.pollinationx.io/) dApp and confirm the privacy policy and software terms;
+
+`Step 5:` Connect your wallet via **Wallet Connect**;
+
+`Step 6:`  Mint desired storage or check PX sNFT storage state. There are two options to mint PX sNFT;&#x20;
+
+> (1) Mint new PX sNFT\
+> (2) Upgrade existing PX sNFT
+
+{% hint style="info" %}
+**Accounts:** Each account represents available PX sNFT. Choose between available accounts to check the storage state.
+{% endhint %}

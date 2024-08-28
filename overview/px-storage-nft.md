@@ -2,7 +2,7 @@
 description: >-
   PollinationX dynamic NFTs represent the storage and bandwidth unit, while the
   NFT image reflects the real-time storage capacity state.
-cover: ../../.gitbook/assets/PX-sNFT-mockup-comp.jpg
+cover: ../.gitbook/assets/PX-sNFT-mockup-comp.jpg
 coverY: 0
 ---
 
@@ -35,22 +35,26 @@ PX Decentralised Storage NFTs represent the storage unit and bandwidth upload ca
 
 <div>
 
-<figure><img src="../../.gitbook/assets/5gb-19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/5gb-19.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/10gb-19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/10gb-19.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/20gb-19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/20gb-19.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/100gb-19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/100gb-19.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 {% hint style="info" %}
 **Note:** Bandwidth Defines how many data files can be uploaded to decentralized storage (i.e. 1 bandwidth = 1 data file upload).
 {% endhint %}
+
+### Resources
+
+{% embed url="https://github.com/PollinationX/smart-contracts" %}

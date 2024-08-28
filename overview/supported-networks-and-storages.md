@@ -8,7 +8,7 @@ description: >-
 
 ## Supported Networks
 
-`[PX]` smart contract represents the [PX sNFT](px-storage-nft/) which acts as a storage unit applicable within various use cases. Multi-chain interoperability directly correlates with `[PX]` smart contract deployment.&#x20;
+`[PX]` smart contract represents the [PX sNFT](px-storage-nft.md) which acts as a storage unit applicable within various use cases. Multi-chain interoperability directly correlates with `[PX]` smart contract deployment.&#x20;
 
 | Chain        | TestNet SC                                                                                                                                                                                 | MainNet SC                                                                                                                                                                                                                                                                                                                                       | TestNet Faucet                                                                          |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |

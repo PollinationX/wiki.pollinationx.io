@@ -15,6 +15,8 @@ PollinationX Dashboard serves as a UI where developers access various features;
 * can check PX sNFT storage state
 * can check owned PX sNFT list
 
+### Technicals
+
 The schematic describes the PX sNFT buy process;
 
 <figure><img src="../../.gitbook/assets/PX-platform.svg" alt=""><figcaption></figcaption></figure>

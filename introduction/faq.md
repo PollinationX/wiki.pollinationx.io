@@ -12,7 +12,7 @@ Compared with centralized storage, geographically dispersed decentralized storag
 
 ### 3. Is decentralized storage free?
 
-PollinationX offers first 100MB of decentralized storage for free. Users can upgrade their storage using [PX sNFTs](../overview/px-storage-nft/) available in various sizes (e.g. 5GB, 10GB, 20GB, 100GB). If compared with centralized storage solutions, one must acknowledge that some storage plans could offer "free" packages in exchange for associated users data, which is mined and sold. This is not the case with PollinationX.&#x20;
+PollinationX offers first 100MB of decentralized storage for free. Users can upgrade their storage using [PX sNFTs](../overview/px-storage-nft.md) available in various sizes (e.g. 5GB, 10GB, 20GB, 100GB). If compared with centralized storage solutions, one must acknowledge that some storage plans could offer "free" packages in exchange for associated users data, which is mined and sold. This is not the case with PollinationX.&#x20;
 
 ## Data security and privacy
 
