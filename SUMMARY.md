@@ -16,6 +16,7 @@
   * [PX dApp User Guide](overview/px-dapp/px-dapp-user-guide.md)
 * [PX Storage NFTs](overview/px-storage-nft.md)
 * [Supported Networks & Storages](overview/supported-networks-and-storages.md)
+* [Fees](overview/fees.md)
 
 ## DEVELOPER SECTION
 
