@@ -47,9 +47,9 @@ https://github.com/pollinationx/
 ```
 {% endtab %}
 
-{% tab title="PX Drive" %}
+{% tab title="PX App" %}
 ```
-https://drive.pollinationx.io/
+https://app.pollinationx.io/
 https://github.com/pollinationx/drive/
 ```
 {% endtab %}
