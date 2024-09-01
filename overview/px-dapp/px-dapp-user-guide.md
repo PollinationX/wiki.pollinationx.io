@@ -75,7 +75,7 @@ PollinationX NFTs enable easy access to decentralized storage. Users can mint de
 
 Steps:
 
-* 🚀 **Upgrade** storage - upgrades the storage on the existing NFT located in your wallet
-* ⛏️ **Mint** new storage NFT - mints a new storage NFT
+* 🚀 **Upgrade** storage - Upgrade the storage on the existing NFT located in your wallet
+* ⛏️ **Mint** new storage NFT - Mints a new storage NFT
 * 🔄 **Refresh** the dynamic NFT creative located at the left bottom of the dApp. Newly minted storage should appear under the usage writing.
 
