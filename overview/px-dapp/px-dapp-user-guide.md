@@ -52,7 +52,7 @@ Once you’ve set up the dashboard, adding files to your PX storage NFT account 
 
 Steps:
 
-* the 📂 Create folders
+* 📂 Create folders
 * 💾 Drag and drop the chosen files to the dedicated form within the app and upload the files to decentralized storage - check the upload progress on the right
 * ⬇️ Download, edit or delete files by accessing the additional features menu
 
