@@ -8,7 +8,7 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/drive-infographics-v3.png" alt=""><figcaption></figcaption></figure>
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td>1️⃣ <strong>Connecting to the app</strong></td><td>Install, login, fund your wallet and connect to PX App.</td><td></td></tr><tr><td>2️⃣ <strong>Setting up the PX app account</strong></td><td>Create or import a PX Storage NFT account.</td><td></td></tr><tr><td>3️⃣ <strong>Setting up the dashboard</strong></td><td>Mint PX NFTs, export private keys and access dev tools.</td><td></td></tr><tr><td>4️⃣ <strong>Managing and uploading files to decentralized storage</strong></td><td>Create folders, drag and drop, edit or delete files.</td><td></td></tr><tr><td>5️⃣ <strong>Syncing the app state to the blockchain</strong></td><td>Sync the app state to the blockchain.</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>1️⃣ <strong>Connect to the app</strong></td><td>Install, login, fund your wallet and connect to PX App.</td><td></td><td><a href="px-dapp-user-guide.md#connecting-to-the-app">#connecting-to-the-app</a></td></tr><tr><td>2️⃣ <strong>Set up the PX app account</strong></td><td>Create or import a PX Storage NFT account.</td><td></td><td><a href="px-dapp-user-guide.md#setting-up-the-px-app-account">#setting-up-the-px-app-account</a></td></tr><tr><td>3️⃣ <strong>Set up the dashboard</strong></td><td>Mint PX NFTs, export private keys and access dev tools.</td><td></td><td><a href="px-dapp-user-guide.md#setting-up-the-dashboard">#setting-up-the-dashboard</a></td></tr><tr><td>4️⃣ <strong>Manage and upload files to decentralized storage</strong></td><td>Create folders, drag and drop, edit or delete files.</td><td></td><td><a href="px-dapp-user-guide.md#managing-and-uploading-files-to-decentralized-storage">#managing-and-uploading-files-to-decentralized-storage</a></td></tr><tr><td>5️⃣ <strong>Sync the app state to the blockchain</strong></td><td>Sync the app state to the blockchain.</td><td></td><td><a href="px-dapp-user-guide.md#syncing-the-app-state-to-the-blockchain">#syncing-the-app-state-to-the-blockchain</a></td></tr><tr><td>6️⃣ <strong>Upgrade or mint new storage NFTs</strong></td><td>Mint according to your storage needs.</td><td></td><td><a href="px-dapp-user-guide.md#upgrade-or-mint-new-storage">#upgrade-or-mint-new-storage</a></td></tr></tbody></table>
 
 ### Connecting to the app
 
@@ -33,22 +33,18 @@ Steps:
 
 * 🔐 **Set up** a password for the account
 * 👤 **Create** a new account or import a private key of an existing one
-* 🔑 If creating new, be sure to store the account private key securely
+* 🔑 If creating a new account, be sure to store the account private key securely
 * ⚠️ **Follow** the instructions carefully to complete the account setup
 
 ### **Setting up the dashboard**
 
-The PX app dashboard is your mission control within the application. It lets you mint and PX Storage NFTs and manage their accounts. It's a place where devs can access integrator tools and settings.&#x20;
+The PX app dashboard is your mission control within the application. It lets you mint PX Storage NFTs and manage their accounts. It is also a place where devs can access integrator tools and settings.&#x20;
 
 Steps:
 
-* ⛏️ **Mint** PX Storage NFT according to your preferences and confirm the transaction with your wallet
-* 👉 **Access** account tab to export account private key
-* 👉 **Access** settings tab to reset private key within the app
-
-{% hint style="info" %}
-**Note:** PX storage NFTs are available and programmed with predetermined storage and bandwidth capacity and can be minted according to specific needs.&#x20;
-{% endhint %}
+* ⛏️ **Mint** PX Storage NFT according to your preferences and confirm the transaction with your wallet, read more in the "[upgrade or mint PX NFT chapter](px-dapp-user-guide.md#upgrade-or-mint-new-storage)"
+* 👉 **Access** the account tab to export the account private key
+* 👉 **Access** the settings tab to reset the private key within the app
 
 ### Managing and uploading files to decentralized storage
 
@@ -56,9 +52,9 @@ Once you’ve set up the dashboard, adding files to your PX storage NFT account 
 
 Steps:
 
-* 📂 Create folders
+* the 📂 Create folders
 * 💾 Drag and drop the chosen files to the dedicated form within the app and upload the files to decentralized storage - check the upload progress on the right
-* ⬇️ Download, edit or delete files by accessing additional features menu
+* ⬇️ Download, edit or delete files by accessing the additional features menu
 
 {% hint style="info" %}
 **Note:** When uploaded, files are split into smaller pieces, encrypted and dispersed between various decentralized storage nodes. At the same time, data reunification is possible only with the user's private key.
@@ -75,11 +71,11 @@ Steps:
 
 ### Upgrade or mint new storage
 
-PollinationX NFTs enable easy access to decentralized storages. Users can mint decentralized storage NFTs according to their storage needs (e.g. 5GB, 20GB, 100GB). Storage is available until used. New storage NFTs can be minted according the the users need.
+PollinationX NFTs enable easy access to decentralized storage. Users can mint decentralized storage NFTs according to their storage needs (e.g. 5GB, 20GB, 100GB). Storage is available until used. New storage NFTs can be minted according to the user's need.
 
 Steps:
 
 * 🚀 **Upgrade** storage - upgrades the storage on the existing NFT located in your wallet
 * ⛏️ **Mint** new storage NFT - mints a new storage NFT
-* 🔄 **Exit** the menu and **refresh** the dynamic NFT creative located in the left bottom of the dApp. New minted storage should appear under the usage writing.
+* 🔄 **Refresh** the dynamic NFT creative located at the left bottom of the dApp. Newly minted storage should appear under the usage writing.
 
