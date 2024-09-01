@@ -69,6 +69,10 @@ Steps:
 * ⬇️ Download from blockchain - choose to download the app state
 * ⬆️ Upload to blockchain - choose to upload the app state
 
+{% hint style="danger" %}
+**Note:** You have to sync the app state to the blockchain first, before you sync it to another device.
+{% endhint %}
+
 ### Upgrade or mint new storage
 
 PollinationX NFTs enable easy access to decentralized storage. Users can mint decentralized storage NFTs according to their storage needs (e.g. 5GB, 20GB, 100GB). Storage is available until used. New storage NFTs can be minted according to the user's need.
