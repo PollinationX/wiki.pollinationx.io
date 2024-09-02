@@ -105,4 +105,4 @@ description: Auth authenticates the user and checks their PollinationX (PX) stor
 
 {% embed url="https://6cp0k0.pollinationx.io/auth/login" %}
 
-The URL link defines which parameters must be sent. The user proves the storage ownership (i.e. PX sNFT) by signing with MetaMask. PX sNFTs are available for minting at the [PX Dashboard](../../overview/px-dapp/intro-px-dashboard.md).
+The URL link defines which parameters must be sent. The user proves the storage ownership (i.e. PX sNFT) by signing with MetaMask. PX sNFTs are available for minting at the [PX Dashboard](broken-reference).
