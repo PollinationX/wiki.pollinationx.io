@@ -5,6 +5,8 @@ PX app is a decentralized application, a developer dashboard and an end-user fil
 * **End-users:** A decentralized storage service offering a "Cloud Storage Drive" experience, where users can store and access files online in a self-custodial, permissionless way. It syncs documents, photos, and more across all devices supporting Web3 wallets.
 * **Developers:** A integrator-focused dashboard that allows developers to manage their PX subscriptions and access a range of developer settings and tools.
 
+{% embed url="https://app.pollinationx.io/" %}
+
 ### **Fundamentals**
 
 * Pseudonymous access via Web3 login
@@ -23,5 +25,3 @@ The diagram illustrates the PX dApp processes between users wallets, platform, d
 ### Resources
 
 {% embed url="https://github.com/pollinationx/px-dapp" %}
-
-\
