@@ -44,9 +44,9 @@ Through dynamic Storage NFTs, users can securely manage their storage quotas and
 
 ### Sizes, Bandwidth & Prices
 
-<table><thead><tr><th>Size</th><th>Bandwidth</th><th width="182">Estimated price in $</th></tr></thead><tbody><tr><td><code>100MB</code></td><td>25 uploads</td><td>Free</td></tr><tr><td><code>1GB</code></td><td>50 uploads</td><td>~5$ ≡</td></tr><tr><td><code>5GB</code></td><td>150 uploads</td><td>~15$ ≡</td></tr><tr><td><code>20BG</code></td><td>400 uploads</td><td>~30$ ≡</td></tr></tbody></table>
+<table><thead><tr><th>Size</th><th>Bandwidth</th><th width="182">Estimated price in $</th></tr></thead><tbody><tr><td><code>100MB</code></td><td>25 uploads</td><td>Free</td></tr><tr><td><code>1GB</code></td><td>50 uploads</td><td>≈ 5$</td></tr><tr><td><code>5GB</code></td><td>150 uploads</td><td>≈ 15$ </td></tr><tr><td><code>20BG</code></td><td>400 uploads</td><td>≈ 30$</td></tr></tbody></table>
 
-<table><thead><tr><th>Bandwidth</th><th width="182">Estimated price in $</th></tr></thead><tbody><tr><td>10 uploads</td><td>~1$ ≡</td></tr></tbody></table>
+<table><thead><tr><th>Bandwidth</th><th width="182">Estimated price in $</th></tr></thead><tbody><tr><td>10 uploads</td><td>≈  1$</td></tr></tbody></table>
 
 {% hint style="info" %}
 **Note:** References to USD prices are made for approximate fiat value illustration purposes only. Access [Fees](fees.md) chapter for more information.
