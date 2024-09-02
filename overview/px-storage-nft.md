@@ -46,7 +46,7 @@ Through dynamic Storage NFTs, users can securely manage their storage quotas and
 
 <table><thead><tr><th>Size</th><th>Bandwidth</th><th width="182">Estimated price in $</th></tr></thead><tbody><tr><td><code>100MB</code></td><td>25 uploads</td><td>Free</td></tr><tr><td><code>1GB</code></td><td>50 uploads</td><td>≈ 5$</td></tr><tr><td><code>5GB</code></td><td>150 uploads</td><td>≈ 15$ </td></tr><tr><td><code>20BG</code></td><td>400 uploads</td><td>≈ 30$</td></tr></tbody></table>
 
-<table><thead><tr><th>Bandwidth</th><th width="182">Estimated price in $</th></tr></thead><tbody><tr><td>10 uploads</td><td>≈  1$</td></tr></tbody></table>
+<table><thead><tr><th>Bandwidth</th><th width="182">Estimated price in $</th></tr></thead><tbody><tr><td>10 uploads</td><td>≈ 1$</td></tr></tbody></table>
 
 {% hint style="info" %}
 **Note:** References to USD prices are made for approximate fiat value illustration purposes only. Access [Fees](fees.md) chapter for more information.
@@ -57,8 +57,8 @@ Through dynamic Storage NFTs, users can securely manage their storage quotas and
 1. Go to MetaMask and access the NFT tab
 2. Click ➕_Import NFT_
 3. Fill in the details below:\
-   1\.   Address: 0x1142b080a5493695e3E35c9C4269f6C06B5CE0F4\
-   2\.   Token ID: (e.g. #123)&#x20;
+   \- **Address:** 0x1142b080a5493695e3E35c9C4269f6C06B5CE0F4\
+   \- **Token ID:** (e.g. #123)
 4. Click _Import_
 
 {% hint style="info" %}
