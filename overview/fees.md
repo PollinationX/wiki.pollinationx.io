@@ -4,11 +4,11 @@
 
 {% tabs %}
 {% tab title="Blockchain Fees" %}
-<table><thead><tr><th width="278.66666666666663">Smart Contract Methods</th><th>Gas Limit</th><th>*Estimated Price in FTM</th><th>*Estimated Price in ROSE</th></tr></thead><tbody><tr><td><code>[PX]</code> Mint free package or new storage</td><td>3800000</td><td>≈ 0.15 FTM</td><td>≈ 0.38 ROSE</td></tr><tr><td><code>[PX]</code> Mint Bandwidth</td><td>860000</td><td>≈ 0.03 FTM</td><td>≈ 0.086 ROSE</td></tr><tr><td><code>[PX]</code> Upgrade Package</td><td>1240000</td><td>≈ 0.05 FTM</td><td>≈ 0.12 ROSE</td></tr></tbody></table>
+<table><thead><tr><th width="278.66666666666663">Smart Contract Methods</th><th>Gas Limit</th><th>*Estimated Price in FTM</th><th>*Estimated Price in ROSE</th></tr></thead><tbody><tr><td>[PXMain] Mint free package or new storage</td><td>3800000</td><td>≈ 0.15 FTM</td><td>≈ 0.38 ROSE</td></tr><tr><td>[PXMain] Mint Bandwidth</td><td>860000</td><td>≈ 0.03 FTM</td><td>≈ 0.086 ROSE</td></tr><tr><td>[PXMain] Upgrade Package</td><td>1240000</td><td>≈ 0.05 FTM</td><td>≈ 0.12 ROSE</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="PX sNFT Price" %}
-<table><thead><tr><th>Size</th><th>Bandwidth Limit</th><th width="182">Estimated price in $</th><th>Estimated Price in FTM</th><th>Estimated Price in ROSE</th></tr></thead><tbody><tr><td><code>100MB</code></td><td>25 uploads</td><td>Free</td><td>Free</td><td>Free</td></tr><tr><td><code>1GB</code></td><td>50 uploads</td><td>≈ 5$</td><td>≈ 12 FTM</td><td>≈ 80 ROSE</td></tr><tr><td><code>5GB</code></td><td>150 uploads</td><td>≈ 15$</td><td>≈ 35 FTM</td><td>≈ 240 ROSE</td></tr><tr><td><code>20BG</code></td><td>400 uploads</td><td>≈ 30$</td><td>≈ 70 FTM</td><td>≈ 470 ROSE</td></tr></tbody></table>
+<table><thead><tr><th>Size</th><th>Bandwidth Limit</th><th width="182">Estimated price in $</th><th>Estimated Price in FTM</th><th>Estimated Price in ROSE</th></tr></thead><tbody><tr><td>100MB</td><td>25 uploads</td><td>Free</td><td>Free</td><td>Free</td></tr><tr><td><code>1</code>GB</td><td>50 uploads</td><td>≈ 5$</td><td>≈ 12 FTM</td><td>≈ 80 ROSE</td></tr><tr><td>5GB</td><td>150 uploads</td><td>≈ 15$</td><td>≈ 35 FTM</td><td>≈ 240 ROSE</td></tr><tr><td>20BG</td><td>400 uploads</td><td>≈ 30$</td><td>≈ 70 FTM</td><td>≈ 470 ROSE</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="PX Bandwidth Price" %}

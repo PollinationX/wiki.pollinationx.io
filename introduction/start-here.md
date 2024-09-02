@@ -47,10 +47,11 @@ https://github.com/pollinationx/
 ```
 {% endtab %}
 
-{% tab title="PX App" %}
+{% tab title="PX dApp" %}
 ```
 https://app.pollinationx.io/
-https://github.com/pollinationx/drive/
+https://testnet.pollinationx.io/
+https://github.com/pollinationx/px-dapp/
 ```
 {% endtab %}
 {% endtabs %}
