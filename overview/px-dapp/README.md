@@ -31,7 +31,7 @@ The diagram illustrates the PX dApp processes between user wallets, platform, da
 <figure><img src="../../.gitbook/assets/PX-dApp-diagram-small.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**Note:** Check the [PX Architecture](https://wiki.pollinationx.io/developer-section/px-architecture) chapter for detailed descriptions of the PX dApp processes.
+**Note:** Check the [PX processes](https://wiki.pollinationx.io/developer-section/px-processes) chapter for detailed descriptions of the PX dApp processes running in the back end.
 {% endhint %}
 
 ### Resources
