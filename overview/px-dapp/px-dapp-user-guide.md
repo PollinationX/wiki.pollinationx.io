@@ -1,12 +1,12 @@
 ---
 description: >-
-  This is the PollinationX app manual page. Follow the steps for easier
+  This is the PollinationX dApp manual page. Follow the steps for easier
   onboarding and access to all needed information.
 ---
 
 # PX dApp User Guide
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>1️⃣ <strong>Connect to the app</strong></td><td>Install, login, fund your wallet and connect to PX App.</td><td></td><td><a href="px-dapp-user-guide.md#connecting-to-the-app">#connecting-to-the-app</a></td></tr><tr><td>2️⃣ <strong>Set up the PX app account</strong></td><td>Set up or import a PX Storage NFT account.</td><td></td><td><a href="px-dapp-user-guide.md#setting-up-the-px-app-account">#setting-up-the-px-app-account</a></td></tr><tr><td>3️⃣ <strong>Set up the dashboard</strong></td><td>Mint PX NFTs, export private keys and access dev tools.</td><td></td><td><a href="px-dapp-user-guide.md#setting-up-the-dashboard">#setting-up-the-dashboard</a></td></tr><tr><td>4️⃣ <strong>Manage and upload files to decentralized storage</strong></td><td>Create folders, drag and drop, edit or delete files.</td><td></td><td><a href="px-dapp-user-guide.md#managing-and-uploading-files-to-decentralized-storage">#managing-and-uploading-files-to-decentralized-storage</a></td></tr><tr><td>5️⃣ <strong>Sync the state to the blockchain</strong></td><td>Sync the file structure state to the blockchain.</td><td></td><td><a href="px-dapp-user-guide.md#syncing-the-file-structure-state-to-the-blockchain">#syncing-the-file-structure-state-to-the-blockchain</a></td></tr><tr><td>6️⃣ <strong>Upgrade or mint new storage NFTs</strong></td><td>Mint according to your storage needs.</td><td></td><td><a href="px-dapp-user-guide.md#upgrade-or-mint-new-storage">#upgrade-or-mint-new-storage</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>1️⃣ <strong>Connect to the dApp</strong></td><td>Install, login, fund your wallet and connect to PX App.</td><td></td><td><a href="px-dapp-user-guide.md#connecting-to-the-app">#connecting-to-the-app</a></td></tr><tr><td>2️⃣ <strong>Set up the PX dApp account</strong></td><td>Set up or import a PX Storage NFT account.</td><td></td><td><a href="px-dapp-user-guide.md#setting-up-the-px-app-account">#setting-up-the-px-app-account</a></td></tr><tr><td>3️⃣ <strong>Set up the dashboard</strong></td><td>Mint PX NFTs, export private keys and access dev tools.</td><td></td><td><a href="px-dapp-user-guide.md#setting-up-the-dashboard">#setting-up-the-dashboard</a></td></tr><tr><td>4️⃣ <strong>Manage and upload files to decentralized storage</strong></td><td>Create folders, drag and drop, edit or delete files.</td><td></td><td><a href="px-dapp-user-guide.md#managing-and-uploading-files-to-decentralized-storage">#managing-and-uploading-files-to-decentralized-storage</a></td></tr><tr><td>5️⃣ <strong>Sync the state to the blockchain</strong></td><td>Sync the file structure state to the blockchain.</td><td></td><td><a href="px-dapp-user-guide.md#syncing-the-file-structure-state-to-the-blockchain">#syncing-the-file-structure-state-to-the-blockchain</a></td></tr><tr><td>6️⃣ <strong>Upgrade or mint new storage NFTs</strong></td><td>Mint according to your storage needs.</td><td></td><td><a href="px-dapp-user-guide.md#upgrade-or-mint-new-storage">#upgrade-or-mint-new-storage</a></td></tr></tbody></table>
 
 {% tabs %}
 {% tab title="Intro to PollinationX" %}
@@ -18,24 +18,24 @@ description: >-
 {% endtab %}
 {% endtabs %}
 
-### Connecting to the app
+### Connecting to the dApp
 
-PX app is a Web3-native application supporting [MetaMask](https://support.metamask.io/getting-started/getting-started-with-metamask/) and Wallet Connect. We recommend beginners take the [MetaMask Web3 101](https://learn.metamask.io/overview) course before starting.
+PX dApp is a Web3-native application supporting [MetaMask](https://support.metamask.io/getting-started/getting-started-with-metamask/) and Wallet Connect. We recommend beginners take the [MetaMask Web3 101](https://learn.metamask.io/overview) course before starting.
 
-Since PX app services run on-chain, ensure your wallet has enough gas for setup and operations.&#x20;
+Since PX dApp services run on-chain, ensure your wallet has enough gas for setup and operations.&#x20;
 
-The PX app is a multi-chain application. Users can choose between several supported EVM blockchains. We recommend browsing the [supported network list](https://wiki.pollinationx.io/overview/supported-networks-and-storages) and choosing the blockchain most suited to your needs.
+The PX dApp is a multi-chain application. Users can choose between several supported EVM blockchains. We recommend browsing the [supported network list](https://wiki.pollinationx.io/overview/supported-networks-and-storages) and choosing the blockchain most suited to your needs.
 
 Steps:
 
 * ⚙️ Install and login to a supported wallet
 * 💰 Fund your wallet with gas
-* 🤝 Connect your wallet with the [PX App](https://app.pollinationx.io/) (app.pollinationx.io)
+* 🤝 Connect your wallet with the [PX dApp Testnet](https://testnet.pollinationx.io/) (testnet.pollinationx.io) or [PX dApp Mainnet](https://app.pollinationx.io/) (app.pollinationx.io)
 * 🔗 Select blockchain
 
-### Setting up the PX app account
+### Setting up the PX dApp account
 
-When you first connect to the PX app, you'll need to create or import a PX Storage NFT account. Each PX Storage NFT account has its own encryption with a unique public and private key pair. The private key allows you to export your PX Storage NFT accounts and restore your storage state on any browser-based device.
+When you first connect to the PX dApp, you'll need to create or import a PX Storage NFT account. Each PX Storage NFT account has its own encryption with a unique public and private key pair. The private key allows you to export your PX Storage NFT accounts and restore your storage state on any browser-based device.
 
 Steps:
 
@@ -46,7 +46,7 @@ Steps:
 
 ### **Setting up the dashboard**
 
-The PX app dashboard is your mission control within the application. It lets you mint PX Storage NFTs and manage their accounts. It is also a place where devs can access integrator tools and settings.&#x20;
+The PX dApp dashboard is your mission control within the application. It lets you mint PX Storage NFTs and manage their accounts. It is also a place where devs can access integrator tools and settings.&#x20;
 
 Steps:
 
@@ -83,7 +83,7 @@ Steps:
 
 ### Upgrade or mint new storage
 
-PollinationX NFTs enable easy access to decentralized storage. Users can mint decentralized storage NFTs according to their storage needs (e.g. 5GB, 20GB, 100GB). Storage is available until used. New storage NFTs can be minted according to the user's need.
+PollinationX NFTs enable easy access to decentralized storage. Users can mint decentralized storage NFTs according to their storage needs (e.g. 100MB, 5GB, 20GB, 100GB). Storage is available until used. New storage NFTs can be minted according to the user's need.
 
 Steps:
 
@@ -91,3 +91,8 @@ Steps:
 * ⛏️ **Mint** new storage NFT - Mints a new storage NFT
 * 🔄 **Refresh** the dynamic NFT creative located at the left bottom of the dApp. Newly minted storage should appear under the usage writing.
 
+### Disclaimer
+
+THE SOFTWARE SET FORTH IN THESE TERMS IS PROVIDED 'AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTY THAT THE SOFTWARE IS FREE OF DEFECTS, MERCHANTABLE OR FIT FOR A PARTICULAR PURPOSE. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY US.
+
+In no event will the Company, its affiliates, distributors or resellers be liable for any indirect, special, incidental or consequential damages arising out of the use of or inability to use the software, including, without limitation, damages for lost profits, loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses, even if advised of the possibility thereof.

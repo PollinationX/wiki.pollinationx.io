@@ -19,6 +19,7 @@
 ## DEVELOPER SECTION
 
 * [PX Architecture](developer-section/px-architecture.md)
+* [PX Processes](developer-section/px-processes.md)
 * [PX Nodes](developer-section/px-nodes.md)
 * [PX API Reference](developer-section/px-api-reference/README.md)
   * [Auth](developer-section/px-api-reference/auth.md)

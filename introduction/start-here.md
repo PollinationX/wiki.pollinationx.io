@@ -5,9 +5,9 @@ description: PollinationX (PX); Decentralized Storage Infrastructure and Service
 
 # Start Here
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Get Starter</strong></td><td>Learn about the PollinationX.</td><td></td><td></td><td><a href="start-here.md#mission">#mission</a></td></tr><tr><td><strong>Connect to the PX dApp</strong></td><td>Discover the PX dApp, mint your first storage NFT and upload some files to decentralised storage.</td><td></td><td></td><td><a href="https://wiki.pollinationx.io/overview/px-dapp">https://wiki.pollinationx.io/overview/px-dapp</a></td></tr><tr><td><strong>Discover PX Multi-chain</strong></td><td>Explore the PX multi-chain EVM support.</td><td></td><td></td><td><a href="https://wiki.pollinationx.io/overview/supported-networks-and-storages">https://wiki.pollinationx.io/overview/supported-networks-and-storages</a></td></tr><tr><td><strong>Utalize the PX APIs</strong></td><td>Connect to custom decentralized storage nodes via dedicated service APIs.</td><td></td><td></td><td><a href="https://wiki.pollinationx.io/developer-section/api-reference">https://wiki.pollinationx.io/developer-section/api-reference</a></td></tr><tr><td><strong>Utilize the PX SDK</strong></td><td>Enjoy seamless SDK interactions with protocol smart contracts and decentralised storage providers.</td><td></td><td></td><td><a href="https://wiki.pollinationx.io/developer-section/pollinationx-sdk">https://wiki.pollinationx.io/developer-section/pollinationx-sdk</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Get Starter</strong></td><td>Learn about the PollinationX infra.</td><td></td><td></td><td><a href="start-here.md#mission">#mission</a></td></tr><tr><td><strong>Connect to the app</strong></td><td>Discover the PX dApp, mint your first storage NFT and upload some files to decentralised storage.</td><td></td><td></td><td><a href="https://wiki.pollinationx.io/overview/px-dapp">https://wiki.pollinationx.io/overview/px-dapp</a></td></tr><tr><td><strong>Discover the multi-chain</strong></td><td>Explore the PX multi-chain EVM support.</td><td></td><td></td><td><a href="https://wiki.pollinationx.io/overview/supported-networks-and-storages">https://wiki.pollinationx.io/overview/supported-networks-and-storages</a></td></tr><tr><td><strong>Utalize the APIs</strong></td><td>Connect to custom decentralized storage nodes via dedicated service PX APIs.</td><td></td><td></td><td><a href="https://wiki.pollinationx.io/developer-section/api-reference">https://wiki.pollinationx.io/developer-section/api-reference</a></td></tr><tr><td><strong>Utilize the SDK</strong></td><td>Enjoy seamless PX SDK interactions with protocol smart contracts and decentralised storage providers.</td><td></td><td></td><td><a href="https://wiki.pollinationx.io/developer-section/pollinationx-sdk">https://wiki.pollinationx.io/developer-section/pollinationx-sdk</a></td></tr></tbody></table>
 
-### Mission
+### Mission;
 
 _To bridge the gap between decentralized storage networks and end users enabling ease of access while democratizing access to secure and private storage solutions empowering a new era of data sovereignty and security._
 
@@ -38,14 +38,21 @@ PX emerges as a beacon of innovation, bridging the gap between the theoretical p
 {% endhint %}
 
 {% hint style="success" %}
-**Build based on decentralized principles;**
+**PX technology is build based on decentralized principles;**
 
-(1) 100% self-custodial;\
-(2) open-source & open-source with commercial restrictions;\
-(3) users data is accessible only to the private key owner; \
-(4) no personal data whatsoever is collected or can be accessed by the PX service; \
-(5) code is law principle applies!
+(1) pseudonymous login via Web3 wallets;\
+(2) self-custodial;\
+(3) on-chain verifiable;\
+(4) users data is accessible only to the private key owner; \
+(5) no personal data whatsoever is collected or can be accessed by the PX service, and; \
+(6) open-source & open-source with commercial restrictions.
 {% endhint %}
+
+### Products
+
+* **PX dApp:** Simplifies the usage of decentralized storage networks while serving as a developer dashboard and an end-user file hosting service.
+* **PX Storage NFT:** Represent the storage and bandwidth quotas in a mintable, portable ans self-custodial form.
+* **Developers Tools:** Offers a suite of back-end services that enable connection to custom decentralized storage nodes via dedicated service APIs, NPM & SDK while utilising the read-and-write methods of supported decentralized storage out-of-the-box.
 
 ### Official Links
 

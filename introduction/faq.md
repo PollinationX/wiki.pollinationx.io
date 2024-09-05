@@ -40,7 +40,8 @@ PX Storage NFT is a dynamic NFT programmed with a predetermined storage capacity
 
 Bandwidth Defines how many data files can be uploaded to decentralized storage. It acts as a metric used within the PX Storage NFT mechanics (i.e. 1 bandwidth = 1 data file upload).
 
-### What is PX Drive?
+### What is PX dApp?
 
-PX Drive is a decentralized storage-based service that enables users to store and access files online in a self-custodial and permissionless way. The service syncs stored documents, photos and more across all the user's devices, that support Web3 wallets.
+PX app is a decentralised application, a developer dashboard and an end-user file hosting service. It is built to service developers while managing subscriptions or accessing a range of developer settings and tools. It is also built for end-users. It offers a file hosting service with cutting-edge decentralized storage solutions that empower users with full control and ownership of their data. \
+
 
