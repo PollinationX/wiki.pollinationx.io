@@ -23,5 +23,5 @@ This API endpoints for uploading and downloading files to/from decentralized sto
 {% endcontent-ref %}
 
 {% hint style="info" %}
-**Good to know:** To enhance security and privacy, consider encrypting files before uploading them to the decentralized storage. This way, even if the storage nodes are compromised, the data remains protected. If you want encryption out of the box consider using our [PollinationX SDK](../pollinationx-sdk/).
+**Good to know:** To enhance security and privacy, consider encrypting files before uploading them to the decentralized storage. This way, even if the storage nodes are compromised, the data remains protected. If you want encryption out of the box consider using our [PollinationX SDK](../px-sdk/).
 {% endhint %}

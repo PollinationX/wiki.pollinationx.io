@@ -6,21 +6,27 @@ description: >-
 
 # PX Architecture
 
-The architecture was designed to be as lightweight and modular as possible while retaining core decentralization primitives. With many iterations behind five key components are forming the core PX framework;&#x20;
+### Let's Start
 
-> (1) smart contract & libraries;&#x20;
->
-> (2) on-chain storage validation;&#x20;
->
-> (3) PX Nodes;&#x20;
->
-> (4) PX sNFT authorisation, and;&#x20;
->
-> (5) PX client.
+The architecture was designed to be as lightweight and modular as possible while retaining core decentralization primitives. There are five key legos forming the core PX framework:
 
-Zooming out, the architecture is quite straightforward. As shown in the infrastructural layer stack diagram, there are UI clients built on top of the SDK, powered by BTFS, storage nodes, protocols, assets and blockchain networks.
+* Smart contract & libraries
+* On-chain storage validation
+* PX Nodes
+* PX sNFT authorisation
+* PX client
 
+### Architecture by layers
 
+Connected by the PX SDK (i.e. software development kit), six layers complete the PollinationX framework:
+
+* dApps & cients (e.g. [PX dApp](https://wiki.pollinationx.io/overview/px-dapp))
+* PX SDK
+* Decentralized storage networks (i.e. BTFS, IPFS)
+* Storage nodes
+* PX Protocol
+* PX Assets&#x20;
+* Blockchain networks
 
 <figure><img src="../../.gitbook/assets/Architecture-by-layers.png" alt=""><figcaption></figcaption></figure>
 

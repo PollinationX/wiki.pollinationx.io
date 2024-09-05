@@ -9,7 +9,7 @@ description: This API endpoint allows you to add a file to the decentralized sto
 {% endhint %}
 
 {% hint style="warning" %}
-If using API for uploading, files are not encrypted. Do not store any private or sensitive information in an unencrypted way. If you want encryption out of the box consider using our [PollinationX SDK](../pollinationx-sdk/).
+If using API for uploading, files are not encrypted. Do not store any private or sensitive information in an unencrypted way. If you want encryption out of the box consider using our [PollinationX SDK](../px-sdk/).
 {% endhint %}
 
 ## Upload file

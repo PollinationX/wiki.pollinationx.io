@@ -27,6 +27,6 @@
   * [Auth](developer-section/api-reference/auth.md)
   * [Upload](developer-section/api-reference/upload.md)
   * [Download](developer-section/api-reference/download.md)
-* [PollinationX SDK](developer-section/pollinationx-sdk/README.md)
-  * [Quick start](developer-section/pollinationx-sdk/quick-start.md)
+* [PX SDK](developer-section/px-sdk/README.md)
+  * [Quick start](developer-section/px-sdk/quick-start.md)
 * [GitHub](https://github.com/pollinationx/)
