@@ -31,7 +31,7 @@ Connected by the PX SDK (i.e. software development kit), seven layers complete t
 
 <div align="left" data-full-width="false">
 
-<figure><img src="../../.gitbook/assets/Architecture-by-layers.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Architecture-by-layers.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -39,7 +39,7 @@ Connected by the PX SDK (i.e. software development kit), seven layers complete t
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/Architecture-Diagram (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Architecture-Diagram (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -88,8 +88,10 @@ Users who do not sync their storage usage metadata within the specified timefram
 **Note:** While the PX infrastructure is natively interoperable with IPFS and IPNS, the first production integrations are made using BTFS and BTNS frameworks. Other decentralized storage network support will follow according to the project roadmap.
 {% endhint %}
 
-### Latest Releases:
+### Resources
 
-{% embed url="https://github.com/PollinationX/smart-contracts/releases" %}
+{% embed url="https://github.com/PollinationX/px-dapp" %}
 
-{% embed url="https://github.com/PollinationX/dapp/releases" %}
+{% embed url="https://github.com/PollinationX/sdk-js" %}
+
+{% embed url="https://github.com/PollinationX/smart-contracts" %}

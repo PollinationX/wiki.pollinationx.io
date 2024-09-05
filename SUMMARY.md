@@ -18,10 +18,7 @@
 
 ## DEVELOPER SECTION
 
-* [PX Architecture](developer-section/px-architecture/README.md)
-  * [GitHub Auth](https://github.com/PollinationX/auth)
-  * [GitHub \[PX\] Smart Contract](https://github.com/PollinationX/smart-contracts)
-  * [GitHub sdk-js](https://github.com/PollinationX/sdk-js)
+* [PX Architecture](developer-section/px-architecture.md)
 * [PX Nodes](developer-section/px-nodes.md)
 * [API Reference](developer-section/api-reference/README.md)
   * [Auth](developer-section/api-reference/auth.md)
