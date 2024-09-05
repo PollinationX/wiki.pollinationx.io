@@ -1,15 +1,15 @@
 ---
-description: PollinationX (PX); Decentralized Storage Infrastructure and Service Layer
 icon: right-from-bracket
+description: PollinationX (PX); Decentralized Storage Infrastructure and Service Layer
 ---
 
 # Start Here
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Get Starter</strong></td><td>Learn about the PollinationX.</td><td></td><td></td><td><a href="start-here.md#mission">#mission</a></td></tr><tr><td><strong>Onboard the dApp</strong></td><td>Discover the PX dApp, mint your first storage NFT and upload some files to decentralised storage.</td><td></td><td></td><td><a href="https://wiki.pollinationx.io/overview/px-dapp">https://wiki.pollinationx.io/overview/px-dapp</a></td></tr><tr><td><strong>Multi-chain</strong></td><td>Explore PX the multi-chain framework.</td><td></td><td></td><td><a href="https://wiki.pollinationx.io/overview/supported-networks-and-storages">https://wiki.pollinationx.io/overview/supported-networks-and-storages</a></td></tr><tr><td><strong>Utalize the APIs</strong></td><td>Connect to custom decentralized storage nodes via dedicated service APIs.</td><td></td><td></td><td><a href="https://wiki.pollinationx.io/developer-section/api-reference">https://wiki.pollinationx.io/developer-section/api-reference</a></td></tr><tr><td><strong>Utilize the SDK</strong></td><td>Enjoy seamless SDK interactions with protocol smart contracts and decentralised storage providers.</td><td></td><td></td><td><a href="https://wiki.pollinationx.io/developer-section/pollinationx-sdk">https://wiki.pollinationx.io/developer-section/pollinationx-sdk</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Get Starter</strong></td><td>Learn about the PollinationX.</td><td></td><td></td><td><a href="start-here.md#mission">#mission</a></td></tr><tr><td><strong>Connect to the PX dApp</strong></td><td>Discover the PX dApp, mint your first storage NFT and upload some files to decentralised storage.</td><td></td><td></td><td><a href="https://wiki.pollinationx.io/overview/px-dapp">https://wiki.pollinationx.io/overview/px-dapp</a></td></tr><tr><td><strong>Discover PX Multi-chain</strong></td><td>Explore the PX multi-chain EVM support.</td><td></td><td></td><td><a href="https://wiki.pollinationx.io/overview/supported-networks-and-storages">https://wiki.pollinationx.io/overview/supported-networks-and-storages</a></td></tr><tr><td><strong>Utalize the PX APIs</strong></td><td>Connect to custom decentralized storage nodes via dedicated service APIs.</td><td></td><td></td><td><a href="https://wiki.pollinationx.io/developer-section/api-reference">https://wiki.pollinationx.io/developer-section/api-reference</a></td></tr><tr><td><strong>Utilize the PX SDK</strong></td><td>Enjoy seamless SDK interactions with protocol smart contracts and decentralised storage providers.</td><td></td><td></td><td><a href="https://wiki.pollinationx.io/developer-section/pollinationx-sdk">https://wiki.pollinationx.io/developer-section/pollinationx-sdk</a></td></tr></tbody></table>
 
 ### Mission
 
-To bridge the gap between decentralized storage networks and end users enabling ease of access while democratizing access to secure and private storage solutions empowering a new era of data sovereignty and security.
+_To bridge the gap between decentralized storage networks and end users enabling ease of access while democratizing access to secure and private storage solutions empowering a new era of data sovereignty and security._
 
 ### Context
 
@@ -22,6 +22,12 @@ To bridge the gap between decentralized storage networks and end users enabling 
 {% endhint %}
 
 ### What is PollinationX (PX)?
+
+{% tabs %}
+{% tab title="Intro to PX" %}
+{% embed url="https://youtu.be/Hp9_C639QqE?feature=shared" %}
+{% endtab %}
+{% endtabs %}
 
 PollinationX is a decentralized storage infra layer that provides developers access to custom decentralized storage nodes and offers end-users dynamic [NFTs](https://wiki.pollinationx.io/overview/px-storage-nft) with preset storage and bandwidth capacities. offers a suite of back-end services that enable developers to connect to custom decentralized storage nodes via dedicated service APIs, NPM & SDK while utilising the read-and-write methods of [supported decentralized storage](../overview/supported-networks-and-storages.md) out-of-the-box.&#x20;
 
