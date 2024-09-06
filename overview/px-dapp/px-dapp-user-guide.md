@@ -16,6 +16,10 @@ description: >-
 {% tab title="PX dApp Tutorial" %}
 {% embed url="https://youtu.be/oairPYB5vSo?feature=shared" %}
 {% endtab %}
+
+{% tab title="Intro to PX Storage NFTs" %}
+{% embed url="https://youtu.be/-UHiaPsUkes?feature=shared" %}
+{% endtab %}
 {% endtabs %}
 
 ### Connecting to the dApp
