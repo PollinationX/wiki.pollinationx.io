@@ -6,7 +6,7 @@
 
 * [Start Here](introduction/start-here.md)
 * [FAQ](introduction/faq.md)
-* [Whitepaper](https://bit.ly/PX-whitepaper)
+* [Library](introduction/library.md)
 
 ## OVERVIEW
 

@@ -8,7 +8,7 @@
 {% endtab %}
 
 {% tab title="PX sNFT Price" %}
-<table><thead><tr><th>Size</th><th>Bandwidth Limit</th><th width="182">Estimated price in $</th><th>Estimated Price in FTM</th><th>Estimated Price in ROSE</th></tr></thead><tbody><tr><td>100MB</td><td>25 uploads</td><td>Free</td><td>Free</td><td>Free</td></tr><tr><td><code>1</code>GB</td><td>50 uploads</td><td>≈ 5$</td><td>≈ 12 FTM</td><td>≈ 80 ROSE</td></tr><tr><td>5GB</td><td>150 uploads</td><td>≈ 15$</td><td>≈ 35 FTM</td><td>≈ 240 ROSE</td></tr><tr><td>20BG</td><td>400 uploads</td><td>≈ 30$</td><td>≈ 70 FTM</td><td>≈ 470 ROSE</td></tr></tbody></table>
+<table><thead><tr><th>Size</th><th>Bandwidth Limit</th><th width="182">Estimated price in $</th><th>Estimated Price in FTM</th><th>Estimated Price in ROSE</th></tr></thead><tbody><tr><td>100MB</td><td>25 uploads</td><td>Free</td><td>Free</td><td>Free</td></tr><tr><td>1GB</td><td>50 uploads</td><td>≈ 5$</td><td>≈ 12 FTM</td><td>≈ 80 ROSE</td></tr><tr><td>5GB</td><td>150 uploads</td><td>≈ 15$</td><td>≈ 35 FTM</td><td>≈ 240 ROSE</td></tr><tr><td>20BG</td><td>400 uploads</td><td>≈ 30$</td><td>≈ 70 FTM</td><td>≈ 470 ROSE</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="PX Bandwidth Price" %}
