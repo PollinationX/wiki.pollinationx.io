@@ -10,7 +10,7 @@ coverY: 0
 
 ### Intro to PX  sNFTs
 
-PX sNFTs are built for both developers and end-users. PX decentralised storage NFTs represent the storage unit and bandwidth upload capacity. Utilizing dynamic NFT technology, the NFT image dynamically updates to represent the real-time status of storage capacity. NFTs come with predefined storage and bandwidth allocations and can be minted to meet specific requirements. Storage usage metrics are synchronized via the \[PXMain] smart contract, ensuring accurate tracking. Based on the selected storage size in gigabytes and the number of bandwidth uploads (i.e. 1 bandwidth = 1 data file upload), PX sNFTs are minted to grant storage access.
+PX sNFTs are built for both developers and end-users. PX decentralized storage NFTs represent the storage unit and bandwidth upload capacity. Utilizing dynamic NFT technology, the NFT image dynamically updates to represent the real-time status of storage capacity. NFTs come with predefined storage and bandwidth allocations and can be minted to meet specific requirements. Storage usage metrics are synchronized via the \[PXMain] smart contract, ensuring accurate tracking. Based on the selected storage size in gigabytes and the number of bandwidth uploads (i.e. 1 bandwidth = 1 data file upload), PX sNFTs are minted to grant storage access.
 
 ### Fundamentals
 
@@ -62,7 +62,7 @@ Through dynamic Storage NFTs, users can securely manage their storage quotas and
 4. Click _Import_
 
 {% hint style="info" %}
-**Note:** Every PX sNFT has its uniqe ID. You can find it on the NFT graphics (# + a specific number) or access it in the NFT mint smart contract transaction.
+**Note:** NFT smart contracts address is no always the same. Check the exact address on the [supported network](https://wiki.pollinationx.io/overview/supported-networks-and-storages) page. Every PX sNFT has its uniqe ID. You can find it on the NFT graphics (# + a specific number) or access it in the NFT mint smart contract transaction.
 {% endhint %}
 
 ### Resources

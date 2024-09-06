@@ -16,18 +16,18 @@ The objective is to decentralize the PX infrastructure, enhancing the robustness
 
 ### DNS link
 
-DNSLink is used for linking DNS records to BTFS content. It allows associating a domain name with a BTFS content identifier (i.e. CID), making it easier to access BTFS content using human-readable domain names. By setting up a DNSLink, we associated a domain name nodes.pollinationx.io with the CID of the JSON file containing the list of PX nodes.
+DNSLink is used for linking DNS records to IPFS content. It allows associating a domain name with a IPFS content identifier (i.e. CID), making it easier to access IPFS content using human-readable domain names. By setting up a DNSLink, we associated a domain name [nodes.pollinationx.io](https://nodes.pollinationx.io/) with the CID of the JSON file containing the list of PX nodes.
 
-### List of Nodes on BPFS (Nx)
+### List of Nodes on BPFS
 
 The JSON file stored on BTFS contains a list of URLs to all PX nodes participating in the network. Each URL represents a node's endpoint that can be used to interact with the node. This JSON file serves as a registry of all available nodes, allowing clients to discover and connect to nodes dynamically. Later the PX infrastructure will transit from a BTFS to a smart contract to serve as a registry of nodes. With that approach, anyone will be able to publish a PX node, which will be a significant step towards decentralization and improving the architecture's flexibility.&#x20;
 
 ### BTFS CID
 
-The BTFS CID\* identifies the JSON file containing the list of PX nodes on BTFS. This hash will be later replaced with the BTNS hash. Clients can access this file by resolving the DNSLink to obtain the CID and then fetching the content from the BTFS network.
+The IPFS CID\* identifies the JSON file containing the list of PX nodes on IPFS. This hash will be later replaced with the IPFS hash. Clients can access this file by resolving the DNSLink to obtain the CID and then fetching the content from the IPFS network.
 
 {% hint style="info" %}
-**\*BTFS CID:** bafkreiequiplrkpg6kdxbaraxasa6weohy3bwszowrostbav72pe3fjcqe
+**\*IPFS CID:** bafkreiequiplrkpg6kdxbaraxasa6weohy3bwszowrostbav72pe3fjcqe
 {% endhint %}
 
 \*bafkreiequiplrkpg6kdxbaraxasa6weohy3bwszowrostbav72pe3fjcqe
@@ -46,3 +46,7 @@ The Healthz API monitors the availability and status of nodes in the network. It
 {% hint style="info" %}
 **Note:** While the PX infrastructure is natively interoperable with IPFS and IPNS, the first production integrations are made using BTFS and BTNS frameworks. Other decentralized storage network support will follow according to the project roadmap.
 {% endhint %}
+
+### Resources
+
+{% embed url="https://nodes.pollinationx.io/" %}

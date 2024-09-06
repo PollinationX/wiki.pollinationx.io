@@ -1,6 +1,6 @@
 ---
 description: >-
-  PollinationX dApp is a decentralised application, a developer dashboard and an
+  PollinationX dApp is a decentralized application, a developer dashboard and an
   end-user file hosting service.
 ---
 

@@ -24,17 +24,25 @@ _To bridge the gap between decentralized storage networks and end users enabling
 ### What is PollinationX (PX)?
 
 {% tabs %}
-{% tab title="Intro to PX" %}
+{% tab title="Intro to PX Infra" %}
 {% embed url="https://youtu.be/Hp9_C639QqE?feature=shared" %}
+{% endtab %}
+
+{% tab title="Intro to PX dApp" %}
+{% embed url="https://youtu.be/oairPYB5vSo?feature=shared" %}
+{% endtab %}
+
+{% tab title="Intro to PX Storage NFTs" %}
+{% embed url="https://youtu.be/-UHiaPsUkes?feature=shared" %}
 {% endtab %}
 {% endtabs %}
 
-PollinationX is a decentralized storage infra layer that provides developers access to custom decentralized storage nodes and offers end-users dynamic [NFTs](https://wiki.pollinationx.io/overview/px-storage-nft) with preset storage and bandwidth capacities. offers a suite of back-end services that enable developers to connect to custom decentralized storage nodes via dedicated service APIs, NPM & SDK while utilising the read-and-write methods of [supported decentralized storage](../overview/supported-networks-and-storages.md) out-of-the-box.&#x20;
+PollinationX is a decentralized storage infra layer that provides developers access to custom decentralized storage nodes and offers end-users dynamic [NFTs](https://wiki.pollinationx.io/overview/px-storage-nft) with preset storage and bandwidth capacities. offers a suite of back-end services that enable developers to connect to custom decentralized storage nodes via dedicated service APIs & SDK while utilising the read-and-write methods of [supported decentralized storage](../overview/supported-networks-and-storages.md) out-of-the-box.&#x20;
 
 PX emerges as a beacon of innovation, bridging the gap between the theoretical promise of decentralized storage and its practical application, adding infrastructure and service layers dedicated to ease of access.
 
 {% hint style="info" %}
-**Meaning:** The name PollinationX derives from the pollination process in nature. The same as plant spores are distributed from one flower to another, your files are split into smaller pieces, encrypted and dispersed between various PollinationX nodes. At the same time, data reunification is possible only with the user's private key.&#x20;
+**Meaning:** The name PollinationX derives from the pollination process in nature. The same as plant spores are distributed from one flower to another, your files are split into smaller pieces, encrypted and dispersed between various PollinationX nodes. At the same time, data reunification is possible only with the user's private key.  In addition, PollinationX "pollinates" applications by connecting solutions from diverse developers. Once you upload your files become instantly accessible across any app integrated with PollinationX.
 {% endhint %}
 
 {% hint style="success" %}
@@ -52,7 +60,7 @@ PX emerges as a beacon of innovation, bridging the gap between the theoretical p
 
 * **PX dApp:** Simplifies the usage of decentralized storage networks while serving as a developer dashboard and an end-user file hosting service.
 * **PX Storage NFT:** Represent the storage and bandwidth quotas in a mintable, portable ans self-custodial form.
-* **Developers Tools:** Offers a suite of back-end services that enable connection to custom decentralized storage nodes via dedicated service APIs, NPM & SDK while utilising the read-and-write methods of supported decentralized storage out-of-the-box.
+* **Developers Tools:** Offers a suite of back-end services that enable connection to custom decentralized storage nodes via dedicated service APIs & SDK while utilising the read-and-write methods of supported decentralized storage out-of-the-box.
 
 ### Official Links
 

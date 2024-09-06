@@ -20,7 +20,7 @@ The architecture was designed to be as lightweight and modular as possible while
 
 Connected by the PX SDK (i.e. software development kit), seven layers complete the PollinationX framework:
 
-* dApps & cients (e.g. [PX dApp](https://wiki.pollinationx.io/overview/px-dapp))
+* dApps & clients (e.g. [PX dApp](https://wiki.pollinationx.io/overview/px-dapp))
 * [PX SDK](https://wiki.pollinationx.io/developer-section/px-sdk)
 * [PX API](https://wiki.pollinationx.io/developer-section/api-reference)
 * [Decentralized storage networks](https://wiki.pollinationx.io/overview/supported-networks-and-storages#supported-storage-networks) (i.e. BTFS, IPFS)
