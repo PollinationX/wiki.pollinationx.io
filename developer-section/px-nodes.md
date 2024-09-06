@@ -18,11 +18,11 @@ The objective is to decentralize the PX infrastructure, enhancing the robustness
 
 DNSLink is used for linking DNS records to IPFS content. It allows associating a domain name with a IPFS content identifier (i.e. CID), making it easier to access IPFS content using human-readable domain names. By setting up a DNSLink, we associated a domain name [nodes.pollinationx.io](https://nodes.pollinationx.io/) with the CID of the JSON file containing the list of PX nodes.
 
-### List of Nodes on BPFS
+### List of Nodes on IPFS
 
-The JSON file stored on BTFS contains a list of URLs to all PX nodes participating in the network. Each URL represents a node's endpoint that can be used to interact with the node. This JSON file serves as a registry of all available nodes, allowing clients to discover and connect to nodes dynamically. Later the PX infrastructure will transit from a BTFS to a smart contract to serve as a registry of nodes. With that approach, anyone will be able to publish a PX node, which will be a significant step towards decentralization and improving the architecture's flexibility.&#x20;
+The JSON file stored on IPFS contains a list of URLs to all PX nodes participating in the network. Each URL represents a node's endpoint that can be used to interact with the node. This JSON file serves as a registry of all available nodes, allowing clients to discover and connect to nodes dynamically. Later the PX infrastructure will transit from a IPFS to a smart contract to serve as a registry of nodes. With that approach, anyone will be able to publish a PX node, which will be a significant step towards decentralization and improving the architecture's flexibility.&#x20;
 
-### BTFS CID
+### IPFS CID
 
 The IPFS CID\* identifies the JSON file containing the list of PX nodes on IPFS. This hash will be later replaced with the IPFS hash. Clients can access this file by resolving the DNSLink to obtain the CID and then fetching the content from the IPFS network.
 
