@@ -40,7 +40,7 @@ Through dynamic Storage NFTs, users can securely manage their storage quotas and
 
 ### Integrations & Features
 
-<table><thead><tr><th width="217">App</th><th>Minting</th><th>State overview</th><th>Account overview</th></tr></thead><tbody><tr><td><a href="https://app.pollinationx.io/">PX dApp</a></td><td><h2>✅</h2></td><td><h2>✅</h2></td><td><h2>✅</h2></td></tr><tr><td><a href="https://blockcommunicator.com/">BlockCommunicator</a></td><td><h2>✅</h2></td><td><h2>✅</h2></td><td><h2>✅</h2></td></tr><tr><td><a href="https://w3xshare.com/">W3XShare</a></td><td><h2>✅</h2></td><td><h2>✅</h2></td><td><h2>✅</h2></td></tr><tr><td><a href="https://app.the4thpillar.io/">4P Super App</a></td><td><h2>✅</h2></td><td><h2>✅</h2></td><td><h2>✅</h2></td></tr></tbody></table>
+<table><thead><tr><th width="217">App</th><th>Minting</th><th>State overview</th><th>Account overview</th></tr></thead><tbody><tr><td><a href="https://app.pollinationx.io/">PX dApp</a></td><td><h2>✅</h2></td><td><h2>✅</h2></td><td><h2>✅</h2></td></tr><tr><td><a href="https://app.blockcommunicator.com">BlockCommunicator</a></td><td><h2>✅</h2></td><td><h2>✅</h2></td><td><h2>✅</h2></td></tr><tr><td><a href="https://w3xshare.com/">W3XShare</a></td><td><h2>✅</h2></td><td><h2>✅</h2></td><td><h2>✅</h2></td></tr><tr><td><a href="https://app.the4thpillar.io/">4P Super App</a></td><td><h2>✅</h2></td><td><h2>✅</h2></td><td><h2>✅</h2></td></tr></tbody></table>
 
 ### Sizes, Bandwidth & Prices
 
