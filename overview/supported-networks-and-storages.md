@@ -21,6 +21,8 @@ description: >-
 {% tab title="Testnets" %}
 | Chain List 🔗                                        | PX smart contracts 🔗                                                                                                                                                                                                                                                                                                                                         | Deployment |
 | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [Gnosis Chiado](https://chainlist.org/chain/10200)   | <p>[<a href="https://gnosis-chiado.blockscout.com/address/0x59827DCC32a45DC25F99008e4EE8b46908915BCC">PXMain</a>], [<a href="https://gnosis-chiado.blockscout.com/address/0xf584C0E3980265C967cEbFF7422543ae05810fb8">PXUtils</a>], <br>[<a href="https://gnosis-chiado.blockscout.com/address/0x487d911818DEAc27ceF25091084638A5c404A50f">PXStorage</a>]</p> | 04.10.2024 |
+| [Polygon Amoy](https://chainlist.org/chain/80002)    | <p>[<a href="https://amoy.polygonscan.com/address/0x1142b080a5493695e3E35c9C4269f6C06B5CE0F4">PXMain</a>], [<a href="https://amoy.polygonscan.com/address/0xd0466eB975dE9CDfd790Db14f143f4aAAFd67cF2">PXUtils</a>], <br>[<a href="https://amoy.polygonscan.com/address/0xe6cd5c37f5687ba0fd44b429e14be2689a2592ea">PXStorage</a>]</p>                         | 30.09.2024 |
 | [Soneium Minato](https://chainlist.org/chain/1946)   | <p>[<a href="https://explorer-testnet.soneium.org/address/0x1142b080a5493695e3E35c9C4269f6C06B5CE0F4">PXMain</a>], [<a href="https://explorer-testnet.soneium.org/address/0xd0466eB975dE9CDfd790Db14f143f4aAAFd67cF2">PXUtils</a>], <br>[<a href="https://explorer-testnet.soneium.org/address/0xe6CD5C37F5687ba0fd44B429E14be2689A2592eA">PXStorage</a>]</p> | 02.09.2024 |
 | [Immu3](https://chainlist.org/chain/3100)            | \[[PXMain](https://evmexplorer.tanssi-chains.network/address/0x3e4760aC84f99ED1CB505fe0973b54d6E77B3C99?rpcUrl=https%3A%2F%2Ffraa-flashbox-2800-rpc.a.stagenet.tanssi.network)]                                                                                                                                                                               | 15.07.24   |
 | [Immu3](https://chainlist.org/chain/3100)            | \[PXMain]                                                                                                                                                                                                                                                                                                                                                     | 19.04.2024 |
@@ -38,20 +40,7 @@ description: >-
 {% endtab %}
 
 {% tab title="Faucets" %}
-| Chain            | TestNet Faucets 🔗                                                                      |
-| ---------------- | --------------------------------------------------------------------------------------- |
-| Immu3            | [➡️](https://immu3-faucet.vercel.app/)                                                  |
-| Fantom           | [➡️](https://faucet.fantom.network/)                                                    |
-| Fantom Sonic     | [➡️](https://public-sonic.fantom.network/account)                                       |
-| Sepolia          | [➡️](https://sepolia-faucet.pk910.de/)                                                  |
-| Polygon Mumbai   | [➡️](https://faucet.polygon.technology/)                                                |
-| EdgeEVM          | [➡️](https://beresheet-evm-faucet.vercel.app/)                                          |
-| Arthera          | [➡️](https://faucet2.arthera.net/)                                                      |
-| Metis Sepolia    | [➡️](https://sepolia.faucet.metisdevops.link/)                                          |
-| Oasis Sapphire   | [➡️](https://faucet.testnet.oasis.dev/)                                                 |
-| ZetaChain Athens | [➡️](https://www.covalenthq.com/faucet/#form)                                           |
-| Mantle Sepolia   | [➡️](https://faucet.sepolia.mantle.xyz/) / [Bridge](https://bridge.sepolia.mantle.xyz/) |
-| Gnosis Chiado    | [➡️](https://faucet.chiadochain.net/)                                                   |
+<table><thead><tr><th width="386">Chain</th><th>TestNet Faucets 🔗</th></tr></thead><tbody><tr><td>Immu3</td><td><a href="https://immu3-faucet.vercel.app/">➡️</a></td></tr><tr><td>Fantom</td><td><a href="https://faucet.fantom.network/">➡️</a></td></tr><tr><td>Fantom Sonic</td><td><a href="https://public-sonic.fantom.network/account">➡️</a></td></tr><tr><td>Sepolia</td><td><a href="https://sepolia-faucet.pk910.de/">➡️</a></td></tr><tr><td>Polygon Faucets</td><td><a href="https://faucet.polygon.technology/">➡️</a></td></tr><tr><td>EdgeEVM</td><td><a href="https://beresheet-evm-faucet.vercel.app/">➡️</a></td></tr><tr><td>Arthera</td><td><a href="https://faucet2.arthera.net/">➡️</a></td></tr><tr><td>Metis Sepolia</td><td><a href="https://sepolia.faucet.metisdevops.link/">➡️</a></td></tr><tr><td>Oasis Sapphire</td><td><a href="https://faucet.testnet.oasis.dev/">➡️</a></td></tr><tr><td>ZetaChain Athens</td><td><a href="https://www.covalenthq.com/faucet/#form">➡️</a></td></tr><tr><td>Mantle Sepolia</td><td><a href="https://faucet.sepolia.mantle.xyz/">➡️</a> / <a href="https://bridge.sepolia.mantle.xyz/">Bridge</a></td></tr><tr><td>Gnosis Chiado</td><td><a href="https://faucet.chiadochain.net/">➡️</a></td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
 
